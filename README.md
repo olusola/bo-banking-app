@@ -1,1 +1,3 @@
-# bo-banking-app
+# bo-banking-app demo
+
+![](bo_gif.gif)
